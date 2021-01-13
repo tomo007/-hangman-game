@@ -1,0 +1,1 @@
+U datoteku "Rijeci" upišu se riječi koje će se koristiti u igri. Igra krene tako da se iz datoteke izvuče jedna nasumična riječ i igrači je pogađaju. Igra se dok se čovječuljak ne objesi.
